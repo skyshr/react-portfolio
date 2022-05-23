@@ -1,0 +1,25 @@
+{
+    "development" : {
+        "username" : "admin",
+        "password" : "tjrldud1",
+        "database" : "shopping",
+        "host" : "react-portfolio.cc782lfs5sqh.ap-northeast-2.rds.amazonaws.com",
+        "dialect" : "mysql"
+    },
+
+    "test" : {
+        "username" : "admin",
+        "password" : "tjrldud1",
+        "database" : "shopping",
+        "host" : "react-portfolio.cc782lfs5sqh.ap-northeast-2.rds.amazonaws.com",
+        "dialect" : "mysql"
+    },
+
+    "production" : {
+        "username" : "admin",
+        "password" : "tjrldud1",
+        "database" : "shopping",
+        "host" : "react-portfolio.cc782lfs5sqh.ap-northeast-2.rds.amazonaws.com",
+        "dialect" : "mysql"
+    }
+}
